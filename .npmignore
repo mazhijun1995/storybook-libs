@@ -1,0 +1,27 @@
+# 源代码（不发布）
+packages/
+.storybook/
+*.config.*
+tsconfig*.json
+
+# 开发文件
+node_modules/
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# 构建和测试
+dist/
+coverage/
+.nyc_output/
+
+# 其他
+*.md
+!README.md
+.git/
+.gitignore
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
