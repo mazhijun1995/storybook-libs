@@ -7,6 +7,7 @@
   ],
   "command": {
     "publish": {
+      "registry": "http://localhost:4873/",
       "ignoreChanges": [
         "**/*.md",
         "**/*.test.ts",

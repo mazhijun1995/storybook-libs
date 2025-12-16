@@ -8,9 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "packageManager": "pnpm@10.24.0",
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  },
   "dependencies": {
     "class-variance-authority": "^0.7.1"
-  }
+  },
+  "gitHead": "83ae3d61384179a7feae09a4c9cb226c47d04ff2"
 }
