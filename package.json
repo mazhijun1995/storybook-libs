@@ -27,6 +27,9 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  },
   "dependencies": {
     "lerna": "^9.0.3"
   },
